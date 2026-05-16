@@ -1,7 +1,5 @@
-<div align="center">
-  <h1>Team Echidna</h1>
-  We make Homestuck fansites!
-</div>
+<h1>Team Echidna</h1>
+We make Homestuck fansites!
 
 ## Current Projects
 * [sburb.club](https://sburb.club/)
